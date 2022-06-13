@@ -1,0 +1,6 @@
+{
+    "json.format.enable": true,
+    "[go]": {
+        "editor.formatOnSave": false
+    }
+}
